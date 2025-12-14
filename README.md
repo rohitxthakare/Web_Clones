@@ -14,6 +14,10 @@
             <td>01</td>
             <td><a href="https://github.com/rohitxthakare/Web_Clones/tree/main/01-Vanilla-JS-Clones">Vanilla JS Clones</a></td>
         </tr>
+        <tr>
+            <td>02</td>
+            <td><a href="https://github.com/rohitxthakare/Web_Clones/tree/main/02-React-JS-Clones">React JS Clones</a></td>
+        </tr>
     </tbody>
 </table>
 
@@ -25,5 +29,6 @@
 > 🎮 Play Around – Explore freely, but handle with care.
 
 > ✨ In Short: Have fun, but don’t point fingers at us! 😎
+
 
 – **Rohit Thakare**
